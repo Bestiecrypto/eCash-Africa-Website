@@ -309,6 +309,7 @@ body.dark-theme {
 /*=============== ABOUT ===============*/
 .about__container {
   gap: 2.5rem;
+  margin-top: 2rem;
 }
 
 .about__data {
