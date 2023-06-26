@@ -1,4 +1,4 @@
-- Website Delivery, using HTML, Sass and JavaScript.
+- eCash Africa Website, using HTML, Sass and JavaScript.
 - Includes a dark and light mode.
 - Color customization.
 - Developed first with the Mobile First methodology, then for desktop.
